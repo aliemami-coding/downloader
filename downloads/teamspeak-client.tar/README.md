@@ -1,0 +1,36 @@
+# teamspeak-client.tar
+
+---
+
+## Download Information
+
+| Property | Value |
+|----------|-------|
+| **Original File** | `teamspeak-client.tar.gz` |
+| **Total Size** | **5 parts** - **195.20 MB** |
+| **Status** | **Complete (100%)** |
+| **Password Protected** | **NO** |
+
+---
+
+## Download Links
+
+| # | File | Link |
+|---|------|------|
+| 1 | `teamspeak-client.tar.z01` | [Download](https://github.com/aliemami-coding/downloader/raw/main/downloads/teamspeak-client.tar/teamspeak-client.tar.z01) |
+| 2 | `teamspeak-client.tar.z02` | [Download](https://github.com/aliemami-coding/downloader/raw/main/downloads/teamspeak-client.tar/teamspeak-client.tar.z02) |
+| 3 | `teamspeak-client.tar.z03` | [Download](https://github.com/aliemami-coding/downloader/raw/main/downloads/teamspeak-client.tar/teamspeak-client.tar.z03) |
+| 4 | `teamspeak-client.tar.z04` | [Download](https://github.com/aliemami-coding/downloader/raw/main/downloads/teamspeak-client.tar/teamspeak-client.tar.z04) |
+| 5 | `teamspeak-client.tar.zip` | [Download](https://github.com/aliemami-coding/downloader/raw/main/downloads/teamspeak-client.tar/teamspeak-client.tar.zip) |
+
+---
+
+## How to Extract
+
+1. **Download all parts** (`.zip`, `.z01`, `.z02`...)
+2. **Open** `teamspeak-client.tar.zip` with WinRAR, 7-Zip, Ark, or any standard zip tool
+3. **Extract** — all parts combine automatically
+
+---
+
+*This tool created by [avasam.ir](https://avasam.ir)*
